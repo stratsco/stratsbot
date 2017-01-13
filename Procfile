@@ -1,1 +1,1 @@
-web: npm run forever
+app: npm run forever
