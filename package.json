@@ -118,7 +118,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gravebot/Gravebot.git"
+    "url": "git+https://github.com/stratsbot/stratsbot.git"
   },
   "keywords": [
     "Discord",
@@ -130,8 +130,8 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Gravebot/Gravebot/issues"
+    "url": "https://github.com/stratsbot/stratsbot/issues"
   },
-  "homepage": "https://github.com/Gravebot/Gravebot#readme",
+  "homepage": "https://github.com/stratsbot/stratsbot#readme",
   "snyk": true
 }
