@@ -1,11 +1,8 @@
 # StratsBot
 
 [![Build Status](https://david-dm.org/stratsbot/stratsbot.svg)](https://david-dm.org/stratsbot/stratsbot)
-[![Build Status](https://travis-ci.org/StratsBot/StratsBot.svg?branch=master)](https://travis-ci.org/StratsBot/StratsBot)
-[![Coverage Status](https://img.shields.io/coveralls/StratsBot/StratsBot/master.svg)](https://coveralls.io/github/StratsBot/StratsBot?branch=master)
-<a href="https://zenhub.io"><img src="https://img.shields.io/badge/KanBan%20Board-Zenhub.io-blue.svg"></a>
-[![Translations](https://img.shields.io/badge/Translations-Transifex-135d91.svg)](https://www.transifex.com/stratsbot/stratsbot/)
-[![Discord](https://discordapp.com/api/guilds/128598463947472897/widget.png?style=banner)](https://discord.gg/0iXEgtjdHgkpdsVr)
+[![Build Status](https://travis-ci.org/stratsBot/stratsBot.svg?branch=master)](https://travis-ci.org/stratsbot/stratsbot)
+[![Discord](https://discordapp.com/api/guilds/101033046475546624/widget.png?style=shield)](https://discord.gg/WpYhTf8)
 ## About
 
 A fantastic, helpful, and fun [Discord](https://discordapp.com/) chat bot! StratsBot comes with a bunch of cool and powerful commands for both Discord and games!
