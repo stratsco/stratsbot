@@ -28,7 +28,7 @@ function chat(client, evt, suffix, lang) {
 }
 
 export default {
-  chat1
+  chat
 };
 
 export const help = {
