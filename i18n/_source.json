@@ -372,7 +372,7 @@
     "done": true
   },
   "ping": {
-    "text": "Pong! Check Gravebot's pulse",
+    "text": "Pong! Check StratsBot's pulse",
     "done": true
   },
   "popkey_setup": {
@@ -516,7 +516,7 @@
     "done": true
   },
   "version": {
-    "text": "Get information on the latest version of Gravebot",
+    "text": "Get information on the latest version of StratsBot",
     "done": true
   },
   "videocall": {
