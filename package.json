@@ -125,6 +125,7 @@
     "Bot"
   ],
   "contributors": [
+    "Travis Vocino",
     "Gravestorm",
     "Dustin Blackman"
   ],
@@ -132,6 +133,6 @@
   "bugs": {
     "url": "https://github.com/stratsbot/stratsbot/issues"
   },
-  "homepage": "https://github.com/stratsbot/stratsbot#readme",
+  "homepage": "https://forum.strats.co",
   "snyk": true
 }
